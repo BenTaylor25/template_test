@@ -1,2 +1,2 @@
 
-Basic Template example
+Basic C++ Template example
